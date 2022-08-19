@@ -28,7 +28,7 @@ public class Main {
 
 
 
-        /*ТРЕТЬЕ ЗАДАНИЕ*/
+        /*Т3РЕТЬЕ ЗАДАНИЕ*/
 
         float banana = 80f;
         float milk = 105f;
